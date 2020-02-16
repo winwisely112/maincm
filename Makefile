@@ -35,4 +35,6 @@ git-fork-catchup: ## git-fork-catchup
 	# This brings your fork's master branch into sync with the upstream repository, without losing your local changes.
 	git merge upstream/master
 
+	# then in VSCODE just sync to push upwards to your fork.
+
  
