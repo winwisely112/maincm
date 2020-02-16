@@ -32,3 +32,6 @@ git-fork-catchup:
 
 	# This brings your fork's master branch into sync with the upstream repository, without losing your local changes.
 	git merge upstream/master
+
+got-fork-open:
+ 
